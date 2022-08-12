@@ -2,13 +2,7 @@
 - Student at FIT BUT
 - Personal stuff and school projects
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bigguccimts&show_icons=true&theme=tokyonight" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigguccimts&theme=onedark)](https://github.com/bigguccimts)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigguccimts&layout=compact&theme=tokyonight" />
-
-<!--
-<img align="left" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-
-<img align="left" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigguccimts&theme=onedark&layout=compact)](https://github.com/bigguccimts)
 
