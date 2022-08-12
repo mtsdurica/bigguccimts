@@ -2,9 +2,9 @@
 - Student at FIT BUT
 - Personal stuff and school projects
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=bigguccimts&show_icons=true&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bigguccimts&show_icons=true&theme=tokyonight" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigguccimts&layout=compact&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigguccimts&layout=compact&theme=tokyonight" />
 
 <!--
 <img align="left" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
